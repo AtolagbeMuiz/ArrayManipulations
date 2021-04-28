@@ -16,7 +16,7 @@ namespace Array2
             //properties available in Array Class
             //System.Console.WriteLine(students.Length);
 
-            //checks iff the size of the eements in te array is fixed, and if fied, returns true
+            //checks if the size of the elements in te array is fixed, and if fied, returns true
            // System.Console.WriteLine(students.IsFixedSize);
 
             // Array.Reverse(students);
